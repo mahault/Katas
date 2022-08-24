@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T18:33:31.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dN-hvqS6fs0wvEuz6z8R" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T18:33:50.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Bpv_mcJdjQ_0owFeqg46" version="20.2.7" type="github">
   <diagram id="7z78vcRJwoHjMP4bkD24" name="Page-1">
     <mxGraphModel dx="1309" dy="1262" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,8 +49,10 @@
         <mxCell id="wH5RqpElglhxuyfyvfox-8" value="&lt;h4 style=&quot;margin: 1.357em 0px 0px; padding: 0px; font-size: 16px; line-height: 1.428; color: rgb(23, 43, 77); letter-spacing: -0.003em; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot; data-renderer-start-pos=&quot;2243&quot; id=&quot;Meta-optimization&quot;&gt;Meta-optimization&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="633" y="769" width="201" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="9oQ9O6FbsVemTm-6UywY-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="wH5RqpElglhxuyfyvfox-9" target="9oQ9O6FbsVemTm-6UywY-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9oQ9O6FbsVemTm-6UywY-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.578;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wH5RqpElglhxuyfyvfox-9" target="9oQ9O6FbsVemTm-6UywY-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="339" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wH5RqpElglhxuyfyvfox-9" value="&lt;h4 style=&quot;margin: 1.357em 0px 0px; padding: 0px; font-size: 16px; line-height: 1.428; color: rgb(23, 43, 77); letter-spacing: -0.003em; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot; data-renderer-start-pos=&quot;2271&quot; id=&quot;Optimization-wrt-COSM-services&quot;&gt;Optimization wrt COSM services&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="623" y="393" width="240" height="146" as="geometry" />
@@ -83,7 +85,7 @@
           <mxGeometry x="296" y="1115.5" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9oQ9O6FbsVemTm-6UywY-6" value="&lt;h4 style=&quot;margin: 1.357em 0px 0px; padding: 0px; font-size: 16px; line-height: 1.428; color: rgb(23, 43, 77); letter-spacing: -0.003em; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot; data-renderer-start-pos=&quot;2486&quot; id=&quot;Inference-wrt-COSM-services&quot;&gt;Inference wrt COSM services&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="619" y="200" width="215" height="115" as="geometry" />
+          <mxGeometry x="619" y="187" width="215" height="115" as="geometry" />
         </mxCell>
         <mxCell id="9oQ9O6FbsVemTm-6UywY-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="wH5RqpElglhxuyfyvfox-1" target="wH5RqpElglhxuyfyvfox-1">
           <mxGeometry relative="1" as="geometry" />
